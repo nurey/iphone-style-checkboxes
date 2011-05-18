@@ -12,11 +12,11 @@
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0); }
   .iPhoneCheckContainer label {
     white-space: nowrap;
-    font-size: 17px;
+    font-size: 12px;
     line-height: 17px;
     font-weight: bold;
     font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
-    text-transform: uppercase;
+    text-transform: lowercase;
     cursor: pointer;
     display: block;
     height: 27px;
